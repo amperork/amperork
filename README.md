@@ -83,11 +83,16 @@ Python scripts for:
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=amperork&theme=tokyonight)
 
 
-
-
-
 ---
 
+# 🌍 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/French-Fluent-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Professional-green?style=for-the-badge"/>
+</p>
+
+---
 
 
 # 💡 Current Goals
