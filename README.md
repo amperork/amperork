@@ -54,6 +54,20 @@
 
 ---
 
+# 🧠 Cybersecurity & Artificial Intelligence
+
+Passionate about the intersection of Cybersecurity and Artificial Intelligence, with a strong interest in:
+
+- 🤖 AI-powered Threat Detection
+- 🔐 Intelligent Security Systems
+- 📊 Security Data Analysis
+- 🛡️ AI-driven SOC & Incident Response
+- ⚙️ Security Automation using Python
+- 🚨 Anomaly Detection with Machine Learning
+- 🧬 Generative AI for Cyber Defense
+
+---
+
 # 📂 Featured Projects
 
 ## 🔐 Web Security Labs
